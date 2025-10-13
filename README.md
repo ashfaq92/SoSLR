@@ -1,4 +1,4 @@
-# Paper Title:
+# Paper Title
 Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods
 
 # Abstract
@@ -8,4 +8,4 @@ Runtime Composition in Dynamic System of Systems: A Systematic Review of Challen
 **Results:** Challenges fall into four categories: modeling and analysis, resilient operations, system orchestration, and heterogeneity of CSs. Solutions span seven areas: co-simulation and digital twins, semantic ontologies, integration frameworks, adaptive architectures, middleware, formal methods, and AI-driven resilience. Service-oriented frameworks for composition and integration dominate tooling, while simulation platforms support evaluation. Interoperability across tools, limited cross-toolchain workflows, and the absence of standardized benchmarks remain key gaps. Evaluation approaches include simulation-based, implementation-driven, and human-centered studies, which have been applied in domains such as smart cities, healthcare, defense, and industrial automation.
 **Conclusions:** The synthesis reveals tensions, including autonomy versus coordination, the modeling-reality gap, and socio-technical integration. It calls for standardized evaluation metrics, scalable decentralized architectures, and cross-domain frameworks. The analysis aims to guide researchers and practitioners in developing and implementing dynamically composable SoSs.
 
-# ArXiv Link:
+# ArXiv Link
