@@ -9,3 +9,4 @@ Runtime Composition in Dynamic System of Systems: A Systematic Review of Challen
 **Conclusions:** The synthesis reveals tensions, including autonomy versus coordination, the modeling-reality gap, and socio-technical integration. It calls for standardized evaluation metrics, scalable decentralized architectures, and cross-domain frameworks. The analysis aims to guide researchers and practitioners in developing and implementing dynamically composable SoSs.
 
 # ArXiv Link
+https://arxiv.org/abs/2510.12616
