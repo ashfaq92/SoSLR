@@ -10,3 +10,7 @@ Runtime Composition in Dynamic System of Systems: A Systematic Review of Challen
 
 # ArXiv Link
 https://arxiv.org/abs/2510.12616
+
+# Cite as
+
+
