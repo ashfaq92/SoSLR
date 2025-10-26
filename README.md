@@ -11,6 +11,20 @@ Runtime Composition in Dynamic System of Systems: A Systematic Review of Challen
 # ArXiv Link
 https://arxiv.org/abs/2510.12616
 
-# Cite as
+# JSS Link
+https://www.sciencedirect.com/science/article/pii/S0164121225003309
 
+# Cite as
+```
+@article{ASHFAQ2025112661,
+title = {Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods},
+journal = {Journal of Systems and Software},
+pages = {112661},
+year = {2025},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2025.112661},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121225003309},
+author = {Muhammad Ashfaq and Ahmed R. Sadik and Teerath Das and Muhammad Waseem and Niko Mäkitalo and Tommi Mikkonen},
+}
+```
 
